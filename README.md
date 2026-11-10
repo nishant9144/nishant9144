@@ -22,6 +22,7 @@
 | [uutils/coreutils](https://github.com/uutils/coreutils) ⭐ 24k · Rust | [`mv`: keep subdirectory permissions and ACLs on a cross-device move](https://github.com/uutils/coreutils/pull/16222) | ![](https://img.shields.io/github/pulls/detail/state/uutils/coreutils/16222?label=) |
 | [uutils/coreutils](https://github.com/uutils/coreutils) ⭐ 24k · Rust | [`mv`: skip the hard-link scan on a same-filesystem move (~45× faster on 30k files)](https://github.com/uutils/coreutils/pull/16274) | ![](https://img.shields.io/github/pulls/detail/state/uutils/coreutils/16274?label=) |
 | [uutils/coreutils](https://github.com/uutils/coreutils) ⭐ 24k · Rust | [`du`: open subdirectories with `O_NOFOLLOW` so a symlink swap can't redirect the walk](https://github.com/uutils/coreutils/pull/16321) | ![](https://img.shields.io/github/pulls/detail/state/uutils/coreutils/16321?label=) |
+| [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) ⭐ 33k · C++ | [Round video messages: give the H.264 encoder a frame-rate hint so libx264 builds don't start with a gray frame](https://github.com/telegramdesktop/tdesktop/pull/31603) | ![](https://img.shields.io/github/pulls/detail/state/telegramdesktop/tdesktop/31603?label=) |
 | [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) ⭐ 4k · Rust | [`BASE` returns `#NUM!` for numbers ≥ 2^53, as in Excel](https://github.com/ironcalc/IronCalc/pull/1691) | ![](https://img.shields.io/github/pulls/detail/state/ironcalc/IronCalc/1691?label=) |
 
 ### 💼 Experience
