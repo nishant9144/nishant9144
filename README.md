@@ -24,6 +24,7 @@
 | [uutils/coreutils](https://github.com/uutils/coreutils) ⭐ 24k · Rust | [`du`: open subdirectories with `O_NOFOLLOW` so a symlink swap can't redirect the walk](https://github.com/uutils/coreutils/pull/16321) | ![](https://img.shields.io/github/pulls/detail/state/uutils/coreutils/16321?label=) |
 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) ⭐ 33k · C++ | [Round video messages: give the H.264 encoder a frame-rate hint so libx264 builds don't start with a gray frame](https://github.com/telegramdesktop/tdesktop/pull/31603) | ![](https://img.shields.io/github/pulls/detail/state/telegramdesktop/tdesktop/31603?label=) |
 | [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) ⭐ 4k · Rust | [`BASE` returns `#NUM!` for numbers ≥ 2^53, as in Excel](https://github.com/ironcalc/IronCalc/pull/1691) | ![](https://img.shields.io/github/pulls/detail/state/ironcalc/IronCalc/1691?label=) |
+| [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) ⭐ 4k · Rust | [Exported `.xlsx` files no longer make Excel offer a repair when a formula evaluates to `#CIRC!`, `#ERROR!` or `#N/IMPL`](https://github.com/ironcalc/IronCalc/pull/1720) | ![](https://img.shields.io/github/pulls/detail/state/ironcalc/IronCalc/1720?label=) |
 
 ### 💼 Experience
 
